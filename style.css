@@ -1,0 +1,25 @@
+p{
+    text-indent: 90px;
+}
+div{
+    background-color: dimgray;
+    border: solid black;
+    width: 600px;
+    height: 600px;
+
+
+}
+h1{
+    text-align: center;
+    
+}
+div{
+    border-color: black;
+    height: 700;
+    width: 900;
+}
+h1{
+    text-shadow:5px 4px 2px rgba(161, 21, 21, 0.6);
+    color:black
+}
+
